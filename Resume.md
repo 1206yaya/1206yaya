@@ -77,7 +77,8 @@
 - PHP を用いたテンプレートシステムの設計・実装
 - jQuery を活用した動的なユーザーインターフェースの構築
 - 使用技術: PHP, jQuery, HTML, CSS
-  **ツール**: Subversion
+
+**ツール**: Subversion
 
 ## 業務外活動
 
@@ -85,7 +86,8 @@
 
 **概要**: チェックリストのテンプレートから、チェックリストを生成するツール
 [RepeCheck | App Store](https://itunes.apple.com/app/6541751032)
-**使用技術**: Flutter, Firebase, Riverpod, Drift, Freezed
+
+- **使用技術**: Flutter, Firebase, Riverpod, Drift, Freezed
 
 ## 技術スキル
 
@@ -93,7 +95,6 @@
 - クラウドプラットフォーム: AWS, GCP, Azure
 - ツール: Docker, Jenkins
 - データベース: MySQL, PostgreSQL, DynamoDB
--
 
 ## 自己 PR
 
@@ -118,5 +119,5 @@ AWS を用いたインフラストラクチャの設計と構築、CI/CD パイ�
 
 ## 資格
 
-2016/04 基本情報技術者
-2015/03 Java Silver
+- 2016/04 基本情報技術者
+- 2015/03 Java Silver
