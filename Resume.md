@@ -22,6 +22,7 @@
   - バックエンド
     - インフラストラクチャの設計と実装
     - CI/CD パイプラインの開発と保守
+    - PostgreSQL のチューニング
     - Selenium を用いた自動テストの実装
     - データ収集部分の動作確認および異常時の通知を Slack、LINE、ChatWork で自動送信
     - 使用技術: EC2, ECS, RDS, AWS Lambda, PostgreSQL, Spring Boot, Typescript
@@ -78,7 +79,8 @@
 - PHP を用いたテンプレートシステムの設計・実装
 - jQuery を活用した動的なユーザーインターフェースの構築
 - 使用技術: PHP, jQuery, HTML, CSS
-  **ツール**: Subversion
+
+**ツール**: Subversion
 
 ## 業務外活動
 
