@@ -1,0 +1,289 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/repecheck",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "feature",
+              "name",
+              "status",
+              "path"
+            ],
+            "fieldConfig": {
+              "createdAt": {
+                "hide": true
+              },
+              "updatedAt": {
+                "hide": true
+              },
+              "path": {
+                "width": 169,
+                "hide": true
+              },
+              "name": {
+                "width": 207
+              },
+              "feature": {
+                "width": 120
+              },
+              "status": {
+                "width": 180
+              },
+              "docType": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "status",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "74d5ee49-6aeb-4925-a710-5078cf018101",
+          "name": "✅tasks",
+          "type": "table"
+        },
+        {
+          "config": {
+            "orderFields": [
+              "feature",
+              "name",
+              "status",
+              "path"
+            ],
+            "fieldConfig": {
+              "createdAt": {
+                "hide": true
+              },
+              "updatedAt": {
+                "hide": true
+              },
+              "path": {
+                "width": 169,
+                "hide": true
+              },
+              "name": {
+                "width": 207
+              },
+              "feature": {
+                "width": 120
+              },
+              "status": {
+                "width": 180
+              },
+              "docType": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "docType",
+                "operator": "has-any-of",
+                "enabled": true,
+                "value": "[\"action\"]"
+              },
+              {
+                "field": "isTemplate",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "true"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "feature",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "docType",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "3bed720f-63b1-4302-ab93-d148408dc36b",
+          "name": "actions",
+          "type": "table"
+        },
+        {
+          "config": {
+            "orderFields": [
+              "feature",
+              "name",
+              "status",
+              "path"
+            ],
+            "fieldConfig": {
+              "createdAt": {
+                "hide": true
+              },
+              "updatedAt": {
+                "hide": true
+              },
+              "path": {
+                "width": 169,
+                "hide": true
+              },
+              "name": {
+                "width": 207
+              },
+              "feature": {
+                "width": 120
+              },
+              "status": {
+                "hide": true
+              },
+              "docType": {
+                "hide": true
+              },
+              "who": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "docType",
+                "operator": "has-any-of",
+                "enabled": true,
+                "value": "[\"document\"]"
+              },
+              {
+                "field": "isTemplate",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "true"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "feature",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "docType",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "d2863b5d-cfeb-4d24-a8ac-2876f5072802",
+          "name": "docs",
+          "type": "table"
+        }
+      ],
+      "id": "65fe9bc9-cee0-4c04-8ea4-c95c9ea72875",
+      "name": "repecheck"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/alcohol",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "createdAt",
+              "updatedAt",
+              "startTime",
+              "endTime"
+            ],
+            "fieldConfig": {
+              "createdAt": {
+                "hide": true
+              },
+              "updatedAt": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "01a480cd-6d8f-40d7-9a5e-9edb078856ca",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "90301cf5-e6b1-4a5b-96ca-55290c8da466",
+      "name": "🧘‍♂️ alcohol"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

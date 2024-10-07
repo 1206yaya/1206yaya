@@ -1,0 +1,72 @@
+[
+  {
+    "fileName": "Resume",
+    "relativePath": "Resume.md",
+    "headings": [
+      {
+        "heading": "Resume",
+        "level": 2
+      },
+      {
+        "heading": "職務要約",
+        "level": 2
+      },
+      {
+        "heading": "職務経験",
+        "level": 2
+      },
+      {
+        "heading": "2024 年 6 月 〜 7 月 (個人開発 モバイルアプリ | RepeCheck)",
+        "level": 3
+      },
+      {
+        "heading": "2018 年 5 月 〜 現在 (フリーランス)",
+        "level": 3
+      },
+      {
+        "heading": "2018 年 1 月 〜 現在 (フリーランス)",
+        "level": 3
+      },
+      {
+        "heading": "2016 年 4 月 〜 2017 年 12 月 (正社員)",
+        "level": 3
+      },
+      {
+        "heading": "2016 年 4 月 〜 2017 年 4 月 (正社員)",
+        "level": 3
+      },
+      {
+        "heading": "2012 年 8 月 〜 2015 年 12 月 (正社員)",
+        "level": 3
+      },
+      {
+        "heading": "技術スキル",
+        "level": 2
+      },
+      {
+        "heading": "自己 PR",
+        "level": 2
+      },
+      {
+        "heading": "目標",
+        "level": 2
+      },
+      {
+        "heading": "価値観",
+        "level": 2
+      },
+      {
+        "heading": "趣味",
+        "level": 2
+      },
+      {
+        "heading": "資格",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "README.md"
+  }
+]

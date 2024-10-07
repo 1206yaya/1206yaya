@@ -1,0 +1,146 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "",
+      "en / jp orgin origin-jp other1 other2": "",
+      "Immersion Learning": "",
+      "Migaku English": "",
+      "スピード英会話": "",
+      "基本": "",
+      "基本 (裏表反転カード付き)": "",
+      "基本 (裏表反転カード追加可能)": "",
+      "基本 (解答タイピング入力)": "",
+      "基本 example1": "",
+      "基本model1": "",
+      "画像穴埋め問題": "",
+      "穴埋め": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "en / jp orgin origin-jp other1 other2": "en",
+      "Immersion Learning": "Sentence",
+      "Migaku English": "Sentence",
+      "スピード英会話": "Jp",
+      "基本": "表",
+      "基本 (裏表反転カード付き)": "表",
+      "基本 (裏表反転カード追加可能)": "表",
+      "基本 (解答タイピング入力)": "表",
+      "基本 example1": "表面",
+      "基本model1": "表面",
+      "画像穴埋め問題": "穴埋め箇所",
+      "穴埋め": "Text"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {},
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "en / jp orgin origin-jp other1 other2": [
+      "en",
+      "jp",
+      "orgin",
+      "orign-jp",
+      "other1",
+      "other2",
+      "source",
+      "source-url"
+    ],
+    "Immersion Learning": [
+      "Sentence",
+      "Translation",
+      "Target Word",
+      "Definitions",
+      "Screenshot",
+      "Sentence Audio",
+      "Word Audio",
+      "Images",
+      "Example Sentences"
+    ],
+    "Migaku English": [
+      "Sentence",
+      "Translation",
+      "Target Word",
+      "Definitions",
+      "Screenshot",
+      "Sentence Audio",
+      "Word Audio",
+      "Images",
+      "Example Sentences",
+      "Is Vocabulary Card",
+      "Is Audio Card"
+    ],
+    "スピード英会話": [
+      "Jp",
+      "En",
+      "Hints"
+    ],
+    "基本": [
+      "表",
+      "裏"
+    ],
+    "基本 (裏表反転カード付き)": [
+      "表",
+      "裏"
+    ],
+    "基本 (裏表反転カード追加可能)": [
+      "表",
+      "裏",
+      "任意の入力で反転カード追加"
+    ],
+    "基本 (解答タイピング入力)": [
+      "表",
+      "裏"
+    ],
+    "基本 example1": [
+      "表面",
+      "裏面"
+    ],
+    "基本model1": [
+      "表面",
+      "裏面",
+      "audio"
+    ],
+    "画像穴埋め問題": [
+      "穴埋め箇所",
+      "画像",
+      "ヘッダー",
+      "裏面追記",
+      "コメント"
+    ],
+    "穴埋め": [
+      "Text",
+      "裏 (追記)"
+    ]
+  }
+}

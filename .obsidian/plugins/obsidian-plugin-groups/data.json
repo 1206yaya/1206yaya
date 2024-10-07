@@ -1,0 +1,144 @@
+{
+  "groups": [
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgpc",
+      "name": "pc",
+      "plugins": [
+        {
+          "id": "table-editor-obsidian",
+          "name": "Advanced Tables"
+        },
+        {
+          "id": "dataview",
+          "name": "Dataview"
+        },
+        {
+          "id": "dbfolder",
+          "name": "DB Folder"
+        },
+        {
+          "id": "github-embeds",
+          "name": "GitHub Embeds"
+        },
+        {
+          "id": "homepage",
+          "name": "Homepage"
+        },
+        {
+          "id": "metadata-extractor",
+          "name": "Metadata Extractor"
+        },
+        {
+          "id": "note-refactor-obsidian",
+          "name": "Note Refactor"
+        },
+        {
+          "id": "obsidian-advanced-uri",
+          "name": "Advanced URI"
+        },
+        {
+          "id": "obsidian-annotator",
+          "name": "Annotator"
+        },
+        {
+          "id": "obsidian-copy-search-url",
+          "name": "Copy Search URL"
+        },
+        {
+          "id": "obsidian-editor-shortcuts",
+          "name": "Code Editor Shortcuts"
+        },
+        {
+          "id": "obsidian-git",
+          "name": "Git"
+        },
+        {
+          "id": "obsidian-kanban",
+          "name": "Kanban"
+        },
+        {
+          "id": "obsidian-leaflet-plugin",
+          "name": "Leaflet"
+        },
+        {
+          "id": "obsidian-linter",
+          "name": "Linter"
+        },
+        {
+          "id": "obsidian-minimal-settings",
+          "name": "Minimal Theme Settings"
+        },
+        {
+          "id": "obsidian-paste-image-rename",
+          "name": "Paste image rename"
+        },
+        {
+          "id": "obsidian-projects",
+          "name": "Projects"
+        },
+        {
+          "id": "obsidian-shellcommands",
+          "name": "Shell commands"
+        },
+        {
+          "id": "obsidian-style-settings",
+          "name": "Style Settings"
+        },
+        {
+          "id": "obsidian-tasks-plugin",
+          "name": "Tasks"
+        },
+        {
+          "id": "periodic-notes",
+          "name": "Periodic Notes"
+        },
+        {
+          "id": "quick-explorer",
+          "name": "Quick Explorer"
+        },
+        {
+          "id": "quickadd",
+          "name": "QuickAdd"
+        },
+        {
+          "id": "tag-wrangler",
+          "name": "Tag Wrangler"
+        },
+        {
+          "id": "templater-obsidian",
+          "name": "Templater"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false,
+      "assignedDevices": [],
+      "autoAdd": false
+    },
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 1,
+      "id": "pgmb",
+      "name": "mb",
+      "plugins": [
+        {
+          "id": "obsidian-spaced-repetition",
+          "name": "Spaced Repetition"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    }
+  ],
+  "generateCommands": true,
+  "showNoticeOnGroupLoad": "none",
+  "devLogs": false,
+  "devices": [
+    "iphone"
+  ],
+  "doLoadSynchronously": true,
+  "showStatusbarIcon": "None"
+}

@@ -1,0 +1,19 @@
+body[data-workspace-name="repecheck"]
+  .workspace-leaf-content[data-type="bookmarks"]
+  > .view-content
+  > div
+  > .tree-item:not([data-path="repecheck"])
+  div {
+  font-size: 0;
+  padding: 0;
+  margin: 0;
+}
+
+body[data-workspace-name="repecheck"]
+  .workspace-leaf-content[data-type="bookmarks"]
+  > .view-content
+  > div
+  > .tree-item:not([data-path="repecheck"])
+  svg {
+  display: none;
+}

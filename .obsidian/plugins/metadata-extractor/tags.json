@@ -1,0 +1,322 @@
+[
+  {
+    "tag": "narrow",
+    "tagCount": 1,
+    "relativePaths": [
+      "📱 Google Calendar Daily Note.md"
+    ]
+  },
+  {
+    "tag": "swift",
+    "tagCount": 2,
+    "relativePaths": [
+      "転職活動.md"
+    ]
+  },
+  {
+    "tag": "kotlin",
+    "tagCount": 1,
+    "relativePaths": [
+      "転職活動.md"
+    ]
+  },
+  {
+    "tag": "初心者",
+    "tagCount": 1,
+    "relativePaths": [
+      "転職活動.md"
+    ]
+  },
+  {
+    "tag": "競技プログラミング",
+    "tagCount": 2,
+    "relativePaths": [
+      "競技プログラミング.md"
+    ]
+  },
+  {
+    "tag": "flashcards",
+    "tagCount": 8,
+    "relativePaths": [
+      "疑問詞句が質問の焦点となるか、文の主語となるか.md",
+      "疑問文.md",
+      "疑問文 中学レベル.md",
+      "今から未来のこと.md",
+      "予定 be going to Vb.md",
+      "予定 be Ving.md",
+      "TOEIC.md",
+      "Full House.md"
+    ]
+  },
+  {
+    "tag": "only",
+    "tagCount": 3,
+    "relativePaths": [
+      "疑問文 中学レベル.md",
+      "疑問文 ちょい上レベル.md",
+      "普通の文.md"
+    ]
+  },
+  {
+    "tag": "u-next",
+    "tagCount": 1,
+    "relativePaths": [
+      "動画、映画、ムービー.md"
+    ]
+  },
+  {
+    "tag": "hulu",
+    "tagCount": 1,
+    "relativePaths": [
+      "動画、映画、ムービー.md"
+    ]
+  },
+  {
+    "tag": "aws",
+    "tagCount": 1,
+    "relativePaths": [
+      "システム仕様書.md"
+    ]
+  },
+  {
+    "tag": "キーストアの生成",
+    "tagCount": 1,
+    "relativePaths": [
+      "キーストアの生成.md"
+    ]
+  },
+  {
+    "tag": "scrap",
+    "tagCount": 1,
+    "relativePaths": [
+      "system/templates/scrap.md"
+    ]
+  },
+  {
+    "tag": "flutter",
+    "tagCount": 1,
+    "relativePaths": [
+      "riverpod/translate/advanced case_studies concepts/advanced/select.md"
+    ]
+  },
+  {
+    "tag": "riverpod",
+    "tagCount": 1,
+    "relativePaths": [
+      "riverpod/translate/advanced case_studies concepts/advanced/select.md"
+    ]
+  },
+  {
+    "tag": "official-doc",
+    "tagCount": 1,
+    "relativePaths": [
+      "riverpod/translate/advanced case_studies concepts/advanced/select.md"
+    ]
+  },
+  {
+    "tag": "p2",
+    "tagCount": 1,
+    "relativePaths": [
+      "obsidian-playground/tasks/task1.md"
+    ]
+  },
+  {
+    "tag": "p1",
+    "tagCount": 2,
+    "relativePaths": [
+      "obsidian-playground/tasks/task1.md"
+    ]
+  },
+  {
+    "tag": "test",
+    "tagCount": 1,
+    "relativePaths": [
+      "obsidian-playground/metabind/Other Note.md"
+    ]
+  },
+  {
+    "tag": "example-note",
+    "tagCount": 3,
+    "relativePaths": [
+      "obsidian-playground/metabind/Other/Example Notes/Example Note with Image.md",
+      "obsidian-playground/metabind/Other/Example Notes/Example Note with Embeds.md",
+      "obsidian-playground/metabind/Other/Example Notes/Example Note with Callouts.md"
+    ]
+  },
+  {
+    "tag": "cgo",
+    "tagCount": 2,
+    "relativePaths": [
+      "go command en.md"
+    ]
+  },
+  {
+    "tag": "このアプリが作成されるまでのプロセス",
+    "tagCount": 1,
+    "relativePaths": [
+      "flutter_template.md"
+    ]
+  },
+  {
+    "tag": "このプロジェクトの利用方法",
+    "tagCount": 1,
+    "relativePaths": [
+      "flutter_template.md"
+    ]
+  },
+  {
+    "tag": "atcoder",
+    "tagCount": 2,
+    "relativePaths": [
+      "competitive-programing/template.md",
+      "competitive-programing/087_b.md"
+    ]
+  },
+  {
+    "tag": "competitive-programing",
+    "tagCount": 2,
+    "relativePaths": [
+      "competitive-programing/template.md",
+      "competitive-programing/087_b.md"
+    ]
+  },
+  {
+    "tag": "kyopro",
+    "tagCount": 2,
+    "relativePaths": [
+      "competitive-programing/template.md",
+      "competitive-programing/087_b.md"
+    ]
+  },
+  {
+    "tag": "prints",
+    "tagCount": 2,
+    "relativePaths": [
+      "article - go  - 50 Shades of Go in Other Languages_en.md",
+      "article - go  - 50 Shades of Go in Other Languages.md"
+    ]
+  },
+  {
+    "tag": "include",
+    "tagCount": 14,
+    "relativePaths": [
+      "article - go  - 50 Shades of Go in Other Languages_en.md",
+      "article - go  - 50 Shades of Go in Other Languages.md"
+    ]
+  },
+  {
+    "tag": "さらなる情報",
+    "tagCount": 1,
+    "relativePaths": [
+      "article/Flutterプロジェクトの多言語対応.md"
+    ]
+  },
+  {
+    "tag": "アーキテクチャ",
+    "tagCount": 1,
+    "relativePaths": [
+      "Yumemi codecheck - GitHub Search.md"
+    ]
+  },
+  {
+    "tag": "ウェブアプリケーションの作成",
+    "tagCount": 1,
+    "relativePaths": [
+      "Writing Web Applications.md"
+    ]
+  },
+  {
+    "tag": "rails",
+    "tagCount": 1,
+    "relativePaths": [
+      "UML ERD.md"
+    ]
+  },
+  {
+    "tag": "チュートリアル",
+    "tagCount": 3,
+    "relativePaths": [
+      "Tutorial - Getting started with multi-module workspaces.md",
+      "Tutorial - Getting started with generics.md",
+      "Tutorial - Getting started with fuzzing.md"
+    ]
+  },
+  {
+    "tag": "fuzzingチャンネル",
+    "tagCount": 1,
+    "relativePaths": [
+      "Tutorial - Getting started with fuzzing.md"
+    ]
+  },
+  {
+    "tag": "brand-promotion",
+    "tagCount": 2,
+    "relativePaths": [
+      "Task System.md"
+    ]
+  },
+  {
+    "tag": "english",
+    "tagCount": 2,
+    "relativePaths": [
+      "TOEIC.md",
+      "Full House.md"
+    ]
+  },
+  {
+    "tag": "todo",
+    "tagCount": 2,
+    "relativePaths": [
+      "Obsidian Plugins.md"
+    ]
+  },
+  {
+    "tag": "oss",
+    "tagCount": 1,
+    "relativePaths": [
+      "OSS活動.md"
+    ]
+  },
+  {
+    "tag": "php",
+    "tagCount": 1,
+    "relativePaths": [
+      "OSS活動.md"
+    ]
+  },
+  {
+    "tag": "ポインター",
+    "tagCount": 1,
+    "relativePaths": [
+      "Go.md"
+    ]
+  },
+  {
+    "tag": "next-write",
+    "tagCount": 1,
+    "relativePaths": [
+      "Dart.md"
+    ]
+  },
+  {
+    "tag": "やったこと",
+    "tagCount": 1,
+    "relativePaths": [
+      "Crashlytics - ios dSYMファイルが見つかりません.md"
+    ]
+  },
+  {
+    "tag": "javascript",
+    "tagCount": 1,
+    "relativePaths": [
+      "Chrome Extensions.md"
+    ]
+  },
+  {
+    "tag": "clipboard",
+    "tagCount": 1,
+    "relativePaths": [
+      "AI.md"
+    ]
+  }
+]

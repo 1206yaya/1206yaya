@@ -1,0 +1,35 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [
+    {
+      "name": "sliderTemplate",
+      "declaration": "INPUT[slider(addLabels, minValue(0), maxValue(10))]"
+    },
+    {
+      "name": "repecheckStatus",
+      "declaration": "INPUT[inlineSelect(option(✅),option(🧍),option(🛠️fix),option(🐝bug),option(⏸️hold),defaultValue(🧍))]"
+    },
+    {
+      "name": "repecheckFeatures",
+      "declaration": "INPUT[inlineSelect(option(checklist),option(template),option(user),option(project),defaultValue(checklist))]"
+    }
+  ],
+  "buttonTemplates": [],
+  "excludedFolders": [
+    "templates"
+  ]
+}
