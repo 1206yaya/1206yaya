@@ -45,7 +45,7 @@
 | Jest, Vitest                     | 3        | storybook      | 2        | Notion             | 6        |
 | **Infrastructure as Code (IaC)** | **年数** | **AWS**        | **年数** | **Firebase**       | **年数** |
 | AWS CloudFormation               | 6        | EC2            | 6        | Cloud Functions    | 2        |
-| Terraform                        | 2        | S3             | 6        | Authentication     | 2        |
+| Terraform , terragrunt           | 2        | S3             | 6        | Authentication     | 2        |
 | Jenkins                          | 4        | Lambda         | 6        | Firestore          | 2        |
 | Docker                           | 6        | ECS, ECR       | 6        | Extensions         | 2        |
 | Azure                            | 2        | RDS            | 6        | Analytics          | 2        |
