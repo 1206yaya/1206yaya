@@ -4,3 +4,4 @@
 .obsidian/**/workspaces.json
 .obsidian/plugins/obsidian-spaced-repetition/data.json
 .obsidian/**/allExceptMd.json
+.obsidian/plugins/metadata-extractor/metadata.json
