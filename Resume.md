@@ -57,6 +57,34 @@
 
 ---
 
+### 2024 年 10 月 〜 11 月 (ポートフォリオ モバイルアプリ | Instagram Clone)
+
+**概要**:
+Flutter 開発手法の実践を目的としたポートフォリオ用アプリケーション。モノレポ構造を採用し、Firebase をバックエンドに使用した Instagram ライクな SNS アプリを開発。
+
+**使用技術**:
+Melos / Flutter / Riverpod / Firebase(Auth, Firestore, Storage, Analytics, Crashlytics) / freezed / go_router / integration_test / unit test / widget test
+
+**こだわりポイント**:
+
+- モノレポによる効率的なパッケージ管理と依存関係の制御
+- ドメイン駆動設計に基づいた堅牢なアーキテクチャ設計
+- 包括的なテストカバレッジ（統合テスト、ユニットテスト、ウィジェットテスト）
+- 効率的な状態管理とキャッシュ戦略
+- モジュール化された構造で保守性とスケーラビリティを確保
+
+**実装機能**:
+
+- ユーザー管理（認証・プロフィール）
+- 投稿機能（画像・テキスト）
+- タイムライン表示
+- いいね・コメント機能
+- フォロー/フォロワー管理
+
+**GitHub**: [1206yaya/flutter_instagram_clone_cat](https://github.com/1206yaya/flutter_instagram_clone_cat)
+
+---
+
 ### 2024 年 6 月 〜 7 月 (個人開発 モバイルアプリ | RepeCheck)
 
 **概要**: チェックリストのテンプレートから、チェックリストを生成するツール
